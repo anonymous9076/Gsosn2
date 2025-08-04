@@ -1,0 +1,295 @@
+{
+    "chair": {
+        "category": "Chair",
+        "description": "A selection of comfortable and stylish chairs for home and office use",
+        "products": [
+            {
+                "id": 1,
+                "image": "Images/Sections3/1.png",
+                "name": "Wing Chair",
+                "price": 80,
+                "category": "Chair",
+                "discount": 45,
+                "pieces": 2
+            },
+            {
+                "id": 2,
+                "image": "Images/Sections3/2.png",
+                "name": "Wooden Chair",
+                "price": 140,
+                "category": "Gaming",
+                "discount": 13,
+                "pieces": 4
+            },
+            {
+                "id": 3,
+                "image": "Images/Sections3/3.png",
+                "name": "Desk Chair",
+                "price": 70,
+                "category": "Dining",
+                "discount": 5,
+                "pieces": 2
+            },
+            {
+                "id": 4,
+                "image": "Images/Sections3/4.png",
+                "name": "Arm Chair",
+                "price": 50,
+                "category": "Dining",
+                "discount": 5,
+                "pieces": 2
+            },
+            {
+                "id": 5,
+                "image": "Images/Sections3/1.png",
+                "name": "Wing Chair",
+                "price": 80,
+                "category": "Chair",
+                "discount": 15,
+                "pieces": 2
+            },
+            {
+                "id": 6,
+                "image": "Images/Sections3/2.png",
+                "name": "Wooden Chair",
+                "price": 140,
+                "category": "Gaming",
+                "discount": 13,
+                "pieces": 4
+            }, 
+            {
+                "id": 7,
+                "image": "Images/Sections3/3.png",
+                "name": "Desk Chair",
+                "price": 70,
+                "category": "Dining",
+                "discount": 5,
+                "pieces": 2
+            },
+            {
+                "id": 8,
+                "image": "Images/Sections3/4.png",
+                "name": "Arm Chair",
+                "price": 50,
+                "category": "Dining",
+                "discount": 5,
+                "pieces": 2
+            } 
+        ]
+    },
+    "sofa": {
+        "category": "Sofa",
+        "description": "A selection of stylish sofa for home",
+        "products": [
+            {
+                "id": 9,
+                "image": "Images/Sections3/2.1.png",
+                "name": "Settee Sofa",
+                "price": 80,
+                "category": "Office",
+                "discount": 45,
+                "pieces": 1
+            },
+            {
+                "id": 10,
+                "image": "Images/Sections3/2.2.png",
+                "name": "Lawson Sofa",
+                "price": 99,
+                "category": "Gaming",
+                "discount": 22,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Sections3/2.3.png",
+                "name": "Cameback Sofa",
+                "price": 75,
+                "category": "Dining",
+                "discount": 18,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Sections3/2.4.png",
+                "name": "Cabriol Sofa",
+                "price": 99.99,
+                "category": "Dining",
+                "discount": 12,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Sections3/2.1.png",
+                "name": "Wooden Dining Chair",
+                "price": 99.99,
+                "category": "Dining",
+                "discount": 45,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Sections3/2.2.png",
+                "name": "Lawson Sofa",
+                "price": 99,
+                "category": "Gaming",
+                "discount": 22,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Sections3/2.3.png",
+                "name": "Cameback Sofa",
+                "price": 75,
+                "category": "Dining",
+                "discount": 18,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Sections3/2.4.png",
+                "name": "Cabriol Sofa",
+                "price": 99.99,
+                "category": "Dining",
+                "discount": 12,
+                "pieces": 1
+            }
+        ]
+        
+    },
+    "dining": {
+        "category": "Dining Table Set",
+        "description": "A selection of stylish dining table for home",
+        "products": [
+            {
+                "image": "Images/Section6/1.png",
+                "name": "6 Seaters Dining Table",
+                "price": 600,
+                "category": "Dining",
+                "discount": 45,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.png",
+                "name": "3 Seaters Dining Table",
+                "price": 390,
+                "category": "Dining",
+                "discount": 22,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/3.png",
+                "name": "12 Seaters Dining Table",
+                "price": 950,
+                "category": "Dining",
+                "discount": 18,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/4.png",
+                "name": "8 Seaters Dining Table",
+                "price": 800,
+                "category": "Dining",
+                "discount": 12,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/1.png",
+                "name": "6 Seaters  Dining Table",
+                "price": 600,
+                "category": "Dining",
+                "discount": 45,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.png",
+                "name": "3 Seaters Dining Table",
+                "price": 390,
+                "category": "Dining",
+                "discount": 22,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/3.png",
+                "name": "12 Seaters Dining Table",
+                "price": 950,
+                "category": "Dining",
+                "discount": 18,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/4.png",
+                "name": "8 Seaters Dining Table",
+                "price": 800,
+                "category": "Dining",
+                "discount": 12,
+                "pieces": 1
+            }
+        ]
+        
+    },
+    "lamp": {
+        "category": "Lamp",
+        "description": "A selection of stylish lamps for home",
+        "products": [
+            {
+                "image": "Images/Section6/2.1.png",
+                "name": "Decorative Table Lamp",
+                "price": 40,
+                "category": "Table Lamp",
+                "discount": 15,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.2.png",
+                "name": "Study Table Lamp",
+                "price": 20,
+                "category": "Table Lamp",
+                "discount": 22,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.3.png",
+                "name": "Heti Table Lamp",
+                "price": 30,
+                "category": "Table Lamp",
+                "discount": 18,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.4.png",
+                "name": "Bottle Table Lamp",
+                "price": 25,
+                "category": "Table Lamp",
+                "discount": 12,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.1.png",
+                "name": "Decorative Table Lamp",
+                "price": 40,
+                "category": "Table Lamp",
+                "discount": 15,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.2.png",
+                "name": "Study Table Lamp",
+                "price": 20,
+                "category": "Table Lamp",
+                "discount": 22,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.3.png",
+                "name": "Heti Table Lamp",
+                "price": 30,
+                "category": "Table Lamp",
+                "discount": 18,
+                "pieces": 1
+            },
+            {
+                "image": "Images/Section6/2.4.png",
+                "name": "Bottle Table Lamp",
+                "price": 25,
+                "category": "Table Lamp",
+                "discount": 12,
+                "pieces": 1
+            }
+        ]
+        
+    }
+}
